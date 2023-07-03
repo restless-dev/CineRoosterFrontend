@@ -1,0 +1,22 @@
+.navbar-parent{
+    background-image: radial-gradient(rgb(36, 36, 36), rgb(22, 22, 22)) !important;
+}
+.git-icon{
+    transition: color 0.5s ease;
+    color: white;
+    height: 40px;
+    width: 45px;
+    padding-top: 5px;
+    background-image: linear-gradient(orange, rgb(230, 122, 0));
+    border-radius: 5px;
+    border: solid 1px rgb(185, 99, 0);
+}
+.git-icon:hover{
+    color: rgb(255, 232, 190);
+}
+.logo{
+    color: orange;
+    font-family:'Bebas Neue', Arial, Helvetica, sans-serif;
+    font-size: 2em !important;
+    padding: 0 !important;
+}
