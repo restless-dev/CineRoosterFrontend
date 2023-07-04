@@ -23,7 +23,7 @@ const Header = () => {
                         navbarScroll
                     >
                     </Nav>
-                    <a href="https://github.com/example" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/restless-dev/CineRoosterFrontend" target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faGithub} className="git-icon"/>
                     </a>                   
                 </Navbar.Collapse>
